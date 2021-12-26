@@ -545,7 +545,7 @@ header {
   margin-right: 25px;
 }
 
-.menu-item {
+.menu a {
   letter-spacing: 1.3px;
   color: #fff;
   font-size: 24px;
