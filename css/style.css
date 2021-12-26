@@ -545,7 +545,12 @@ header {
   margin-right: 25px;
 }
 
-.menu a {
+.menu-item {
+  letter-spacing: 1.3px;
+  color: #fff;
+  font-size: 24px;
+}
+.menu_footer a{
   letter-spacing: 1.3px;
   color: #fff;
   font-size: 24px;
