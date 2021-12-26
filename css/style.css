@@ -545,7 +545,7 @@ header {
   margin-right: 25px;
 }
 
-.menu a {
+.menu-item {
   letter-spacing: 1.3px;
   color: #fff;
   font-size: 24px;
@@ -1850,7 +1850,7 @@ header {
     padding: 12px 24px;
     color: #333;
     font-family: "Roboto", sans-serif;
-    font-size: 24px;
+    font-size: 30px;
     font-weight: 600;
     text-decoration: none;
     -webkit-transition-duration: 0.25s;
