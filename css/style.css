@@ -1853,11 +1853,10 @@ header {
   .menu-item {
     display: block;
     padding: 12px 24px;
-    color: #333;
     font-family: "Roboto", sans-serif;
     font-size: 30px;
     font-weight: 600;
-    color: #fffff;
+    color: #fff;
     text-decoration: none;
     -webkit-transition-duration: 0.25s;
          -o-transition-duration: 0.25s;
