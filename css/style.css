@@ -1857,6 +1857,7 @@ header {
     font-family: "Roboto", sans-serif;
     font-size: 30px;
     font-weight: 600;
+    color: #fffff;
     text-decoration: none;
     -webkit-transition-duration: 0.25s;
          -o-transition-duration: 0.25s;
